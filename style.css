@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+}
+#container{
+    height:100vh;
+    text-align: center;
+    align-items: center;
+}
+#main{
+    margin-top:18rem;
+}
